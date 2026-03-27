@@ -27,10 +27,3 @@ This is my personal portfolio website built using the MERN stack. It showcases m
 ```bash
 git clone https://github.com/Anuja-Jo/Portfolio.git
 
-cd client
-npm install
-npm run dev
-
-cd ../server
-npm install
-npm start
